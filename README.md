@@ -9,9 +9,10 @@ I'm **keen** on a career path of full stack development, and I promise to anyone
 
 I hope to also delve into open-source contributing as well as linux kernel development, familiarizing myself more with the linux ecosystem then I currently do at the moment.
 
-Hope to prove to everyone passing by the _growth_ I'll achieve, it may not be much now but watch me. :D
+(biggest bouldering hater)
 
 ![Sebvu's github stats](https://github-readme-stats.vercel.app/api?username=sebvu&theme=radical&show_icons=true)
+![Sleepy bear gif](assets/sleepybear.gif)
 
 #### 📱I'm contactable through these sources!
 
