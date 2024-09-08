@@ -10,7 +10,7 @@ I'm a second year undergraduate at the University of Houston studying computer s
 
 I love configuring my environment, it is the best time waster. I believe efficiency and ergonomics in your developer environment is such an underrated topic. Investing into ergonomics while configuring and building programs to make your setup more efficient _genuinely_ makes you a better programmer.
 
-life is roblox - dj khaled
+vim enthusiast (anti mouse)
 
 <hr />
 
