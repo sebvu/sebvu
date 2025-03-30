@@ -1,10 +1,12 @@
 # 💜 sebvu
 
-`"The only way to do great work is to love what you do. - Steve Jobs"`
+`"Believe you can and you're halfway there - Theodore Roosevelt"`
 
 <hr />
 
-neovim or something
+hjkl shift g gg shift u shift d y yy Y p P d D :reg :w :wq :wqa :wq :q! :s/hello world/Hello Wldr/g shift v V v
+
+i'm a sophomore college student? oh no
 
 <hr />
 
