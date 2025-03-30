@@ -8,6 +8,8 @@ hjkl shift g gg shift u shift d y yy Y p P d D :reg :w :wq :wqa :wq :q! :s/hello
 
 i'm a sophomore college student? oh no
 
+neovim
+
 <hr />
 
 <div style="display: flex">
