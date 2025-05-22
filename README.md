@@ -4,11 +4,7 @@
 
 <hr />
 
-hjkl shift g gg shift u shift d y yy Y p P d D :reg :w :wq :wqa :wq :q! :s/hello world/Hello Wldr/g shift v V v
-
-i'm a sophomore college student? oh no
-
-neovim
+neovim programmer and junior in cs
 
 <hr />
 
